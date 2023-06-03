@@ -14,7 +14,7 @@ Witcher is to be published in S&P in May 2023.
 
 
 This repo relies on submodules
-`git submodule update --init --recursive`
+`git submodule update --init --recursive --remote`
 
 
 The best way to utilize Witcher is to build the base docker containers and use them as the foundation for the web application container to be tested.
